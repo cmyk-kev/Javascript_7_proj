@@ -2,6 +2,3 @@
 
 * 7 projetos focados em JavaScript
 Desafio: 7 projetos em 7 dias - Desenvolvido pela B7Web/Bonieky Lacerda
-
-
-https://github.com/kev-cmyk/Javascript_7_proj.git
